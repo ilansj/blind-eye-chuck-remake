@@ -1,6 +1,6 @@
-# chuck_replication
+# Chuck Replication: Villager - Blind Eye
 # Description
-My intention going into this project was to code the sounds and parts of several instruments in Villager - Blind Eye,
+My intention going into this project was to code the sounds and parts of several instruments in Villager - Blind Eye (https://www.youtube.com/watch?v=_UL9PLSoqF8),
 then trigger them sequentially using OTF (On-The-Fly) commands in order to perform a loose cover of the song.
 To make performance easier, I named my files with numbers so they could be typed quickly. I also wrote
 for-loops imitating FX automation, which I could comment out before calling a file if I wanted to bypass them.
